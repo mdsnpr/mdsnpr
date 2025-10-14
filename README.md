@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi, I'm Jacob !</h1>
-<h3 align="left">I am 4th Year CS & Math undergraduate student at University of Maryland, College Park. </h3>
+<h5 align="left">I am 4th Year CS & Math undergraduate student at University of Maryland, College Park. </h5>
   
-<h3 align="left">My research interest spans from AI-driven EEG/Neural Data Analysis to Infectious Disease Dynamics. </h3>
+<h5 align="left">My research interest spans from AI-driven **EEG/Neural Data Analysis** to **Infectious Disease Dynamics**. </h5>
