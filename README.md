@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 <h1 align="left">Hi, I'm Jacob !</h1>
 <h5 align="left">I am 4th Year CS & Math undergraduate student at University of Maryland, College Park. </h5>
   
-<h5 align="left">My research interest spans from AI-driven *EEG/Neural Data Analysis* to *Infectious Disease Dynamics*. </h5>
+<h5 align="left">I am interested in developing AI methods for analyzing nonstationary spatio-temporal data / process, mostly motivated by Neuro, Biomedical applications. </h5>
