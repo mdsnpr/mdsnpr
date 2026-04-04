@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi, I'm Jacob !</h1>
-<h5 align="left">I am 4th Year CS & Math undergraduate student at University of Maryland, College Park. </h5>
+<h5 align="left"> Incoming Ph.D. student in Bioengineering @ University of Maryland - College Park </h5>
+<h5 align="left"> B.S. in Computer Science ; Mathematics @ University of Maryland - College Park </h5>
   
-<h5 align="left">I am interested in developing AI methods for analyzing nonstationary spatio-temporal data / process, mostly motivated by Neuro, Biomedical applications. </h5>
+<h5 align="left"> I am interested in applying AI and mathematical methods for analyzing nonstationary spatio-temporal data / process, mostly motivated by neuroscience, biomedical science, public health applications. </h5>
