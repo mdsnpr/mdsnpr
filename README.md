@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi, I'm Jacob !</h1>
-<h5 align="left"> B.S. in Computer Science ; Mathematics @ University of Maryland - College Park </h5>
